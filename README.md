@@ -1,3 +1,1 @@
-"# Collections" 
-
-Checkpoint 1 DDD java
+# Checkpoint 1 DDD java
